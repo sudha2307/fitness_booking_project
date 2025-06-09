@@ -53,3 +53,6 @@ python app.py
 ## Get bookings for email:
    - curl "http://localhost:5000/bookings?email=john@example.com"
 
+### LOOM Demo Video
+   https://www.loom.com/share/2b9053c7d63f40e8967c4b9e56ce8d78?sid=163610c1-410a-4d86-969e-b0e5708587df
+
